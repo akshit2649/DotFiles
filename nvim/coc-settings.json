@@ -1,0 +1,23 @@
+{
+    "coc.preferences.formatOnSaveFiletypes": [
+        "javascript",
+        "typescript",
+        "typescriptreact",
+        "json",
+        "javascriptreact",
+        "typescript.tsx",
+        "html",
+        "graphql",
+        "css"
+    ],
+    "javascript.suggestionActions.enabled": false,
+    "prettier.tabWidth": 4,
+    "prettier.arrowParens": "avoid",
+    "prettier.printWidth": 120,
+    "prettier.semi": true,
+    "prettier.singleQuote": true,
+    "prettier.disableSuccessMessage": true,
+    "diagnostic.messageTarget": "float",
+    "suggest.enablePreview": true,
+    "suggest.noselect": false
+}
